@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="NeedItsection2" section_id="682cf521db242300d96ea0f2ca9619ff" sys_domain="global" table="x_58872_needit_needit" version="3" view="Marc_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_id>b82c3921db242300d96ea0f2ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NeedItsection2" display_value="NeedItsection2" name="x_58872_needit_needit" sys_domain="global" view="44c8f5addbe02300d96ea0f2ca9619d4">682cf521db242300d96ea0f2ca9619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_id>3c2c3921db242300d96ea0f2ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NeedItsection2" display_value="NeedItsection2" name="x_58872_needit_needit" sys_domain="global" view="44c8f5addbe02300d96ea0f2ca9619d4">682cf521db242300d96ea0f2ca9619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_id>bc2c3921db242300d96ea0f2ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NeedItsection2" display_value="NeedItsection2" name="x_58872_needit_needit" sys_domain="global" view="44c8f5addbe02300d96ea0f2ca9619d4">682cf521db242300d96ea0f2ca9619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_new_field_1</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_id>302c3921db242300d96ea0f2ca9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NeedItsection2" display_value="NeedItsection2" name="x_58872_needit_needit" sys_domain="global" view="44c8f5addbe02300d96ea0f2ca9619d4">682cf521db242300d96ea0f2ca9619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_id>b02c3921db242300d96ea0f2ca9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NeedItsection2" display_value="NeedItsection2" name="x_58872_needit_needit" sys_domain="global" view="44c8f5addbe02300d96ea0f2ca9619d4">682cf521db242300d96ea0f2ca9619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>NeedItsection2</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-14 16:00:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>682cf521db242300d96ea0f2ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NeedItsection2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_682cf521db242300d96ea0f2ca9619ff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-14 16:00:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Marc View" name="Marc_View">44c8f5addbe02300d96ea0f2ca9619d4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
